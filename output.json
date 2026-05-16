@@ -1,0 +1,39 @@
+{
+  "entertainment_news": [
+    {
+      "title": "एआई भर्सेस हलिउड : डेमी मुरको अभिव्यक्तिले फेरि चर्कियो बहस",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/ai-actress-noorwood-1552026120036-1000x0-1552026060036-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "कान्समा फेसन स्टेटमेन्ट : विवादले निम्त्याएकाे ‘ड्रेस कोड’ को नियम",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/julia-roberts-2016-1452026102041-1452026120535-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "एजेन्सी"
+    },
+    {
+      "title": "‘गरिबको चमेली’ : बालेनले गाए, बालेनतिरै फर्कियो",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/miscellaneous/sukumbashiprotestatmaitighar202605084266-1252026110024-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "रीना मोक्तान"
+    },
+    {
+      "title": "प्रतिबन्ध लागेको ५५ वर्षपछि कान्समा ‘द डेभिल्स’",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/the-devils-1252026100643-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "‘लालीबजार’ समीक्षा : कसिलो प्रस्तुति, कमजोर महिला चरित्रचित्रण",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/laalibazar-1152026055804-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "रीना मोक्तान"
+    }
+  ],
+  "cartoon_of_the_day": {
+    "title": "गजब छ बा",
+    "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2022/third-party/gajab-chha-ba-830202-1652026045039-1000x0.jpg&w=601&h=0",
+    "author": null
+  }
+}

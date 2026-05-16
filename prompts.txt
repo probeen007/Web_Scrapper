@@ -1,0 +1,9 @@
+Prompts used with Cursor for this project (in order):
+
+1. Read Practical Test - Audio Bee.pdf and Appendix for setup context. Set up the ekantipur-scraper project with uv, Python 3.11+, and Playwright.
+
+2.analyze what needs to be scraped (entertainment top 5 + cartoon of the day) before writing extraction code.
+
+3. Debug scraper.py: Playwright script that extracts entertainment news from /entertainment and cartoon of the day from the homepage कार्टुन slider; write output.json with ensure_ascii=False for Nepali text.
+
+
